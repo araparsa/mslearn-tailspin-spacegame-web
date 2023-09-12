@@ -2,7 +2,7 @@ trigger:
 - main
 
 pool:
-  vmImage: default
+  vmImage: Azure Pipelines
 
 variables:
   buildConfiguration: 'Release'
